@@ -1,1 +1,1 @@
-# quantaty-variables
+# quantty-variables
